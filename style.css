@@ -14,10 +14,8 @@ h1{
     margin: 0 auto;
 }
 
-.innerdiv {
-    margin-left: 50px;
-}
-
-.indent {
-    margin-left: 50px;
+.WonderfulWorldofWackyWumbers {
+    float: left;
+    width: 100px;
+    margin-left: 80px;
 }
